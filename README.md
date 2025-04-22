@@ -20,8 +20,6 @@ A simple HR dataset containing 183 entries with the following columns:
 
 ## Tools Used
 - **Power BI Desktop** for data cleaning, transformation, and visualization
-- **Python (Pandas)** for preprocessing and formatting before importing
-
 ---
 
 ## Visualizations Created
@@ -56,14 +54,11 @@ A simple HR dataset containing 183 entries with the following columns:
 - `cleaned_hr_dataset.csv` – Cleaned dataset used for Power BI import
 - `hr_visualizations.pbix` – Power BI project file with all charts
 - `README.md` – This file
-- *(Optional)* `/screenshots/` – Folder containing screenshots of key charts for preview
 
 ---
 
 ## Suggestions for Usage
 - You can **open the `.pbix` file** in Power BI Desktop to explore the interactive dashboards.
-- Screenshots are optional, but they’re helpful for **previewing visuals directly on GitHub**, especially for reviewers who don’t open `.pbix` files.
-- Add a short **caption under each screenshot** if you include them.
 
 ---
 
