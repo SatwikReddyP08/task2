@@ -1,0 +1,184 @@
+,Name,Gender,Age,Rating,Date Joined,Department,Salary,Country
+0,Parasuramudu Jamakayala,Male,20,Average,2020-10-18,Website,112650,IND
+1,Yedukondalu Panditula,Male,32,Above Average,2021-04-07,Website,43840,IND
+2,Devsena Veluvalapalli,Female,31,Average,2022-04-12,Procurement,103550,IND
+3,Gopal Venkata,Male,32,Average,2021-05-23,HR,45510,IND
+4,Vasavi Veeravasarapu,Female,37,Poor,2020-09-11,Finance,115440,IND
+5,Mayur Kousika,Male,38,Above Average,2021-03-13,Sales,56870,IND
+6,Dinanath Simhambhatla,Male,25,Average,2020-11-09,Sales,92700,IND
+7,Nazeer Basha Mustafa,Male,32,Average,2022-06-01,Website,91310,IND
+8,Venkat Kodi,Male,33,Average,2021-05-08,Sales,74550,IND
+9,Raghuveer Yettugunna,Male,25,Above Average,2022-04-14,Procurement,109190,IND
+10,Sahaj Jonnalagadda,Male,40,Average,2021-05-04,Website,104410,IND
+11,Gowri Sankar Chakrala,Male,30,Average,2021-12-14,Finance,96800,IND
+12,Suman Katte,Male,28,Above Average,2020-05-29,Finance,48170,IND
+13,Prasanna Lakshmi Payasam,Female,21,Average,2020-07-30,Procurement,37920,IND
+14,Jaipal Potanapudi,Female,34,Average,2022-03-22,Procurement,112650,IND
+15,Duran Appala,Male,34,Poor,2022-04-09,Sales,49630,IND
+16,Lalitchandra Vadali,Male,36,Average,2020-05-07,Website,118840,IND
+17,John Joseph,Male,30,Average,2022-08-16,Website,69710,IND
+18,Oorjit Nandanavanam,Male,20,Average,2022-05-02,Procurement,79570,IND
+19,Ponnan Delhi,Female,22,Above Average,2021-07-11,Procurement,76900,IND
+20,Subbarao Malladi,Male,27,Average,2020-08-30,Sales,54970,IND
+21,Sravanthi Chalaki,Female,37,Poor,2021-03-22,Website,88050,IND
+22,Sreenivasa Naik Gudiwada,Male,43,Average,2021-12-28,Sales,36040,IND
+23,Ramalingam Kothapeta,Female,42,Exceptional,2022-06-06,Procurement,75000,IND
+24,Devrat Damarsingh,Male,35,Average,2022-04-15,Procurement,40400,IND
+25,Amlankusum Rajabhushan,Male,24,Average,2022-03-05,Website,100420,IND
+26,Pratigya Rema,Female,31,Average,2022-02-12,Website,58100,IND
+27,Ramnath Ravuri,Female,44,Average,2023-02-28,Website,114870,IND
+28,Prerana Nishita,Female,32,Average,2021-12-19,Procurement,41570,IND
+29,Makshi Vinutha,Female,30,Average,2022-08-27,Procurement,112570,IND
+30,Shiuli Sapna,Male,26,Average,2020-11-29,Procurement,47360,IND
+31,Agrata Rajarama,Female,21,Average,2021-03-01,Finance,65920,IND
+32,Vasu Nandin,Female,28,Average,2022-01-10,Procurement,99970,IND
+33,Bhuvan Pals,Female,25,Above Average,2022-03-13,Website,80700,IND
+34,Gumwant Veera,Male,24,Poor,2021-06-28,Finance,52610,IND
+35,Narois Motiwala,Male,29,Poor,2020-10-15,Website,112110,IND
+36,Anjushri Chandiramani,Female,27,Average,2020-08-18,HR,119110,IND
+37,Krishnakanta Vellanki,Male,22,Above Average,2021-07-07,Sales,112780,IND
+38,Dhruv Manjunath,Female,36,Average,2020-07-11,Procurement,114890,IND
+39,Vanmala Shriharsha,Male,27,Average,2021-11-06,Finance,48980,IND
+40,Sameer Shashank Sapra,Male,21,Average,2020-12-15,HR,75880,IND
+41,Anumati Shyamari Meherhomji,Female,28,Average,2021-04-10,Sales,53240,IND
+42,Tarala Vishaal,Female,34,Average,2021-07-20,Finance,85000,IND
+43,Shubhra Potla,Female,21,Average,2022-02-27,Website,33920,IND
+44,Hemavati Muthiah,Female,33,Average,2021-02-26,Website,75280,IND
+45,Krittika Gaekwad,Female,34,Average,2022-02-02,Finance,58940,IND
+46,Shevantilal Muppala,Female,28,Average,2021-08-17,Procurement,104770,IND
+47,Shattesh Utpat,Male,21,Average,2022-05-20,Procurement,57090,IND
+48,Kamalakshi Mukundan,Male,27,Above Average,2020-12-09,Finance,91650,IND
+49,Chandana Sannidhi Surnilla,Male,42,Poor,2022-04-19,Finance,70270,IND
+50,Indu Varada Sumedh,Female,28,Average,2020-10-20,Finance,75970,IND
+51,Karuna Pashupathy,Other,27,Above Average,2021-01-16,Website,90700,IND
+52,Mardav Ramaswami,Male,30,Average,2022-02-15,Procurement,60570,IND
+53,Sarayu Ragunathan,Male,33,Average,2020-09-29,Procurement,115920,IND
+54,Kevalkumar Solanki,Female,33,Average,2020-06-24,Finance,65360,IND
+55,Upendra Swati,Other,30,Average,2021-12-05,Finance,64000,IND
+56,Deepit Ranjana,Female,34,Average,2021-07-06,Finance,92450,IND
+57,Amal Nimesh,Male,31,Average,2021-09-11,Website,48950,IND
+58,Kunja Prashanta Vibha,Female,27,Average,2022-03-05,Website,83750,IND
+59,Godavari Veena,Female,40,Average,2021-03-21,Website,87620,IND
+60,Devasree Fullara Saurin,Female,20,Poor,2021-10-07,Sales,68900,IND
+61,Geena Raghavanpillai,Male,32,Average,2021-07-26,Sales,53540,IND
+62,Rupak Mehra,Male,28,Very Poor,2022-07-16,Sales,43510,IND
+63,Sawini Chandan,Female,38,Exceptional,2021-04-30,Sales,109160,IND
+64,Baruna Ogale,Male,40,Average,2021-01-08,Procurement,99750,IND
+65,Jagajeet Viraj,Female,31,Average,2020-09-10,Website,41980,IND
+66,Kulbhushan Moorthy,Male,36,Average,2021-03-17,Finance,71380,IND
+67,Ilesh Dasgupta,Male,27,Very Poor,2021-12-17,Procurement,113280,IND
+68,Madhumati Gazala Soumitra,Female,33,Average,2022-07-05,Finance,86570,IND
+69,Chitrasen Laul,Male,26,Average,2021-06-03,Procurement,53540,IND
+70,Jaishree Atasi Yavatkar,Male,37,Average,2022-03-20,Website,69070,IND
+71,Kantimoy Pritish,Female,30,Poor,2021-05-12,Finance,67910,IND
+72,Rameshwari Chikodi,Male,30,Average,2021-01-18,Website,69120,IND
+73,Lalit Kothari,Female,34,Average,2021-12-20,Finance,60130,IND
+74,Sahas Sanabhi Shrikant,Male,23,Average,2021-07-01,Procurement,106460,IND
+75,Kaishori Harathi Kateel,Female,37,Average,2021-07-12,HR,118100,IND
+76,Rushil Kripa,Female,36,Average,2021-09-29,Procurement,78390,IND
+77,Sarojini Naueshwara,Female,30,Average,2022-08-16,Procurement,114180,IND
+78,Sartaj Probal,Female,28,Average,2022-01-29,Procurement,104120,IND
+79,Mahindra Sreedharan,Male,30,Average,2022-03-20,Procurement,67950,IND
+80,Suchira Bhanupriya Tapti,Female,29,Average,2020-05-11,Website,34980,IND
+81,Fullara Sushanti Mokate,Female,24,Average,2020-09-13,Website,62780,IND
+82,Hridaynath Tendulkar,Male,20,Average,2021-07-20,Website,107700,IND
+83,Abhaya Priyavardhan,Male,25,Average,2021-05-06,Sales,65700,IND
+84,Ayog Chakrabarti,Female,33,Very Poor,2021-04-27,Website,75480,IND
+85,Pragya Nilufar,Male,33,Average,2021-09-09,Website,53870,IND
+86,Shulabh Qutub Sundaramoorthy,Female,36,Average,2021-08-25,Sales,78540,IND
+87,Vinanti Choudhari,Male,19,Average,2021-01-22,Procurement,58960,IND
+88,Ranajay Kailashnath Richa,Male,46,Average,2022-05-16,Procurement,70610,IND
+89,Asija Pothireddy,Male,33,Average,2020-12-16,Finance,59430,IND
+90,Piyali Mahanthapa,Male,33,Above Average,2022-03-20,Procurement,48530,IND
+91,Sukhdev Nageshwar,Female,33,Average,2020-10-25,Website,96140,IND
+92,Lindy Guillet,Male,22,Above Average,2021-09-07,Sales,112780,NZ
+93,Ambros Murthwaite,Male,46,Average,2022-07-16,Procurement,70610,NZ
+94,Tatum Hush,Female,28,Average,2021-06-10,Sales,53240,NZ
+95,Benny Karolovsky,Other,37,Poor,2020-11-11,Finance,115440,NZ
+96,Hoyt D'Alesco,Male,32,Average,2021-09-26,Sales,53540,NZ
+97,Halimeda Kuscha,Female,30,Average,2022-10-27,Procurement,112570,NZ
+98,Erin Androsik,Male,33,Above Average,2022-05-20,Procurement,48530,NZ
+99,Vic Radolf,Female,24,Average,2020-11-13,Website,62780,NZ
+100,William Reeveley,Male,33,Average,2021-11-09,Website,53870,NZ
+101,Ewart Laphorn,Female,27,Average,2020-10-18,HR,119110,NZ
+102,Bev Lashley,Male,29,Poor,2020-12-15,Website,112110,NZ
+103,Kath Bletsoe,Male,25,Average,2021-07-06,Sales,65700,NZ
+104,Murry Dryburgh,Male,37,Average,2022-05-20,Website,69070,NZ
+105,Kaine Padly,Male,20,Average,2021-09-20,Website,107700,NZ
+106,Kassi Jonson,Female,32,Above Average,2021-06-07,Website,43840,NZ
+107,Simon Kembery,Male,40,Average,2021-03-08,Procurement,99750,NZ
+108,Orton Livick,Male,21,Average,2020-09-30,Procurement,37920,NZ
+109,Kelci Walkden,Male,21,Average,2022-07-20,Procurement,57090,NZ
+110,Dotty Strutley,Female,31,Average,2020-11-10,Website,41980,NZ
+111,Shari McNee,Male,21,Average,2021-02-15,HR,75880,NZ
+112,Oby Sorrel,Female,34,Average,2022-04-02,Finance,58940,NZ
+113,Husein Augar,Female,30,Poor,2021-07-12,Finance,67910,NZ
+114,Brien Boise,Female,31,Average,2022-04-12,Website,58100,NZ
+115,Esmaria Denecamp,Male,27,Average,2022-01-06,Finance,48980,NZ
+116,Curtice Advani,Other,30,Average,2022-02-05,Finance,64000,NZ
+117,Barr Faughny,Female,42,Exceptional,2022-08-06,Procurement,75000,NZ
+118,Merrilee Plenty,Female,40,Average,2021-05-21,Website,87620,NZ
+119,Niall Selesnick,Female,29,Average,2020-07-11,Website,34980,NZ
+120,Beverie Moffet,Female,28,Average,2020-12-20,Finance,75970,NZ
+121,Jehu Rudeforth,Female,34,Average,2022-02-20,Finance,60130,NZ
+122,Camilla Castle,Female,33,Very Poor,2021-06-27,Website,75480,NZ
+123,Roddy Speechley,Male,33,Average,2020-11-29,Procurement,115920,NZ
+124,Gray Seamon,Female,36,Average,2021-10-25,Sales,78540,NZ
+125,Madelene Upcott,Male,25,Above Average,2022-06-14,Procurement,109190,NZ
+126,Violante Courtonne,Female,34,Poor,2022-06-09,Sales,49630,NZ
+127,Bernie Gorges,Female,28,Average,2022-03-10,Procurement,99970,NZ
+128,Torrance Collier,Female,33,Average,2020-12-25,Website,96140,NZ
+129,Dyna Doucette,Male,31,Average,2022-06-12,Procurement,103550,NZ
+130,Gunar Cockshoot,Male,31,Average,2021-11-11,Website,48950,NZ
+131,Kaye Crocroft,Male,24,Poor,2021-08-28,Finance,52610,NZ
+132,Allene Gobbet,Female,36,Average,2021-11-29,Procurement,78390,NZ
+133,Sibyl Dunkirk,Female,33,Average,2022-09-05,Finance,86570,NZ
+134,Agnes Collicott,Female,27,Average,2022-05-05,Website,83750,NZ
+135,Leilah Yesinin,Female,34,Average,2021-09-06,Finance,92450,NZ
+136,Mollie Hanway,Male,20,Average,2020-12-18,Website,112650,NZ
+137,Kellsie Waby,Male,20,Average,2022-07-02,Procurement,79570,NZ
+138,Hyacinthie Braybrooke,Female,20,Poor,2021-12-07,Sales,68900,NZ
+139,Van Tuxwell,Female,25,Above Average,2022-05-13,Website,80700,NZ
+140,Lilyan Klimpt,Male,19,Average,2021-03-22,Procurement,58960,NZ
+141,Tawnya Tickel,Male,36,Average,2020-07-07,Website,118840,NZ
+142,Jan Morforth,Male,28,Above Average,2020-07-29,Finance,48170,NZ
+143,Florinda Crace,Female,32,Average,2021-07-23,HR,45510,NZ
+144,Tracy Renad,Female,36,Average,2020-09-11,Procurement,114890,NZ
+145,Myer McCory,Male,30,Average,2022-10-16,Website,69710,NZ
+146,Bennie Pepis,Male,36,Average,2021-05-17,Finance,71380,NZ
+147,Rafaelita Blaksland,Female,38,Exceptional,2021-06-30,Sales,109160,NZ
+148,Mahalia Larcher,Male,27,Very Poor,2022-02-17,Procurement,113280,NZ
+149,Andria Kimpton,Male,30,Average,2021-03-18,Website,69120,NZ
+150,Valentia Etteridge,Female,37,Average,2021-09-12,HR,118100,NZ
+151,Virginia McConville,Female,22,Above Average,2021-09-11,Procurement,76900,NZ
+152,Wilone O'Kielt,Female,43,Average,2023-04-29,Website,114870,NZ
+153,Madge McCloughen,Other,32,Average,2022-08-01,Website,91310,NZ
+154,Janene Hairsine,Female,28,Average,2021-10-17,Procurement,104770,NZ
+155,Alta Kaszper,Male,27,Average,2020-10-30,Sales,54970,NZ
+156,Dennison Crosswaite,Other,26,Above Average,2021-03-16,Website,90700,NZ
+157,Oran Buxcy,Female,38,Above Average,2021-05-13,Sales,56870,NZ
+158,Hinda Label,Female,25,Average,2021-01-09,Sales,92700,NZ
+159,Marney O'Breen,Female,21,Average,2021-05-01,Finance,65920,NZ
+160,Dell Molloy,Male,26,Average,2021-01-29,Procurement,47360,NZ
+161,Mallorie Waber,Male,30,Average,2022-04-15,Procurement,60570,NZ
+162,Cherlyn Barter,Female,28,Average,2022-03-29,Procurement,104120,NZ
+163,Ches Bonnell,Male,37,Poor,2021-05-22,Website,88050,NZ
+164,Collin Jagson,Male,24,Average,2022-05-05,Website,100420,NZ
+165,Hogan Iles,Female,30,Average,2022-10-16,Procurement,114180,NZ
+166,Gretchen Callow,Female,21,Average,2022-04-27,Website,33920,NZ
+167,Kissiah Maydway,Male,23,Average,2021-09-01,Procurement,106460,NZ
+168,Archibald Filliskirk,Male,35,Average,2022-06-15,Procurement,40400,NZ
+169,Enoch Dowrey,Male,27,Above Average,2021-02-09,Finance,91650,NZ
+170,Bili Sizey,Male,43,Average,2022-02-28,Sales,36040,NZ
+171,Caro Chappel,Female,40,Average,2021-07-04,Website,104410,NZ
+172,Constantino Espley,Male,30,Average,2022-02-14,Finance,96800,NZ
+173,Karlen McCaffrey,Female,34,Average,2021-09-20,Finance,85000,NZ
+174,Drusy MacCombe,Male,28,Very Poor,2022-09-16,Sales,43510,NZ
+175,My Hanscome,Male,33,Average,2021-02-16,Finance,59430,NZ
+176,Teressa Udden,Female,33,Average,2020-08-24,Finance,65360,NZ
+177,Crissie Cordel,Female,32,Average,2022-02-19,Procurement,41570,NZ
+178,Elia Cockton,Female,33,Average,2021-04-26,Website,75280,NZ
+179,Gigi Bohling,Male,33,Average,2021-07-08,Sales,74550,NZ
+180,Ebonee Roxburgh,Male,30,Average,2022-05-20,Procurement,67950,NZ
+181,Shayne Stegel,Male,42,Poor,2022-06-19,Finance,70270,NZ
+182,Zach Polon,Male,26,Average,2021-08-03,Procurement,53540,NZ
